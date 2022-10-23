@@ -18,3 +18,4 @@ starting to learn:
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react">
 <br>
 [![Thammara stats](https://github-readme-stats.vercel.app/api?username=tammaraAL)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tammaraAL)](https://github.com/anuraghazra/github-readme-stats)
