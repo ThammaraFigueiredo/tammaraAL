@@ -1,5 +1,6 @@
 # tammaraAL
 Hi! 
+:smiley:
 <br>
 I'm Thammara, I'm a Front End programmer.
 <br>
