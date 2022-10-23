@@ -17,4 +17,4 @@ starting to learn:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-javascript">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react">
 <br>
-[![Tammara stats](https://github-readme-stats.vercel.app/api?username=tammaraAL)](https://github.com/anuraghazra/github-readme-stats)
+[![Thammara stats](https://github-readme-stats.vercel.app/api?username=tammaraAL)](https://github.com/anuraghazra/github-readme-stats)
